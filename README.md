@@ -25,3 +25,6 @@ npx jasmine init
  ```json
      "test": "jasmine"
 ```
+ Después se crean los aarchivos de test dentro del directorio /spec. Es una buena práctica utilizar como nombre de test el mismo nombre de lo que se quiere probar añadiendole .spec. 
+
+ En este ejemplo se le hace test a una app de calculadora que se encuentra en Calc.js
